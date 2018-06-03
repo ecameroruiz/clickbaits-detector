@@ -1,0 +1,7 @@
+,Classifier,Accuracy,Features
+0,KNeighborsClassifier,86.05237908565668,"['wordcount', 'title_keywords']"
+0,SVC,82.2559214469457,"['wordcount', 'title_keywords']"
+0,NuSVC,82.18426197120448,"['wordcount', 'title_keywords']"
+0,DecisionTreeClassifier,87.1321243561431,"['wordcount', 'title_keywords']"
+0,RandomForestClassifier,87.32805535829715,"['wordcount', 'title_keywords']"
+0,GaussianNB,84.47035570884299,"['wordcount', 'title_keywords']"
