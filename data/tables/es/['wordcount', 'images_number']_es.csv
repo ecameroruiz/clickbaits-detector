@@ -1,7 +1,0 @@
-,Classifier,Accuracy,Features
-0,KNeighborsClassifier,93.48043993069133,"['wordcount', 'images_number']"
-0,SVC,84.52522680847426,"['wordcount', 'images_number']"
-0,NuSVC,84.72587289620314,"['wordcount', 'images_number']"
-0,DecisionTreeClassifier,93.2036668411085,"['wordcount', 'images_number']"
-0,RandomForestClassifier,93.15117687076308,"['wordcount', 'images_number']"
-0,GaussianNB,83.27573029786042,"['wordcount', 'images_number']"
