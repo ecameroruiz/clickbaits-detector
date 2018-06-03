@@ -9,15 +9,15 @@ sh prestart.sh (se instalarán automáticamente las librerías de Python necesar
 *Para instalar newspaper:
 
 (Con macOS)
-brew install libxml2 libxslt
-brew install libtiff libjpeg webp little-cms2
+1. brew install libxml2 libxslt
+2. brew install libtiff libjpeg webp little-cms2
 
 (Con Linux)
-sudo apt-get install libxml2-dev libxslt-dev
-sudo apt-get install libjpeg-dev zlib1g-dev libpng12-dev
+1. sudo apt-get install libxml2-dev libxslt-dev
+2. sudo apt-get install libjpeg-dev zlib1g-dev libpng12-dev
 
-curl https://raw.githubusercontent.com/codelucas/newspaper/master/download_corpora.py | python
-pip install git+https://github.com/codelucas/newspaper.git@python-2-head
+3. curl https://raw.githubusercontent.com/codelucas/newspaper/master/download_corpora.py | python
+4. pip install git+https://github.com/codelucas/newspaper.git@python-2-head
 
 =======================================================================================
 Para ejecutar los distintos módulos:
