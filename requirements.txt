@@ -6,6 +6,7 @@ joblib
 langdetect
 pandas
 beautifulsoup4
-newspaper
 emoji
 gensim
+lxml
+nltk
